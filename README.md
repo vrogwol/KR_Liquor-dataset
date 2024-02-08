@@ -1,2 +1,2 @@
-# Korean SOJU Dataset
-# 대한민국 소주 데이터셋
+# Korean LIQOUOR Dataset
+# 대한민국 술 데이터셋
